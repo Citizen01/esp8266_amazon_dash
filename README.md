@@ -51,3 +51,7 @@ Lipton dash pressed !
 Catched an ARP request from 6c:56:97:59:91:07
 Lipton dash pressed !
 ```
+
+## Credits:
+
+[Junxiao Shi](https://github.com/yoursunny) for his Wireshark-like packet dumper for the ESP8266: [gist](https://gist.github.com/yoursunny/947029fd9d40cd7526317f2ec68cc772) - [blog](https://yoursunny.com/t/2018/PacketDump/)
