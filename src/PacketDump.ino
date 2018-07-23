@@ -68,7 +68,8 @@ void setup()
 
     WiFi.begin(WIFI_SSID, WIFI_PASS);
     while (WiFi.status() != WL_CONNECTED) {
-        delay(500);
+        Serial.println(F("Not connected."));
+        delay(1000);
     }
     delay(1000);
     Serial.print(F("WiFi connected IP="));
